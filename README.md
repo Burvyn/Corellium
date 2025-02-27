@@ -68,3 +68,5 @@ We welcome contributions! Feel free to submit a pull request or open an issue to
 - **Discord:** [Coming Soon]
 
 Stay ahead with **Corellium** – the future of digital enhancements!
+
+### Note: Corellium is based off [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities/) by [S-PScripts](https://github.com/s-pscripts/)
